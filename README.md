@@ -21,7 +21,7 @@ En la siquiente figura se ve como al precionar un boton del keypad el display 7 
 
 ![Alt text](/Prest_keypad.jpeg?raw=true "Prest keypad") 
 
-  "Figura 4. Montaje presioando tecla del keypad"
+  "Figura 4. Montaje presionado tecla del keypad"
 
 Al introducir los 4 numeros que coresponden al pin inmediatamente el display mostrara una A y el LED verde de la tarjeta nucleo se pondra en ON indicando que se abrio la cerradura. 
 
