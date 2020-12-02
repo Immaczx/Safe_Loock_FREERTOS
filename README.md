@@ -23,7 +23,7 @@ En la siquiente figura se ve como al precionar un boton del keypad el display 7 
 
   "Figura 4. Montaje presioando tecla del keypad"
 
-Al introducir los 4 numeros que coresponden al pin inmediatamente el display mostrara una A y el LED verde de la targeta nucleo se pondra en ON indicando que se abrio la cerradura. 
+Al introducir los 4 numeros que coresponden al pin inmediatamente el display mostrara una A y el LED verde de la tarjeta nucleo se pondra en ON indicando que se abrio la cerradura. 
 
 
 ![Alt text](/Unloock.jpeg?raw=true "Unloock") 
