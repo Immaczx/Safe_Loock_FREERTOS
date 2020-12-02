@@ -21,20 +21,25 @@ En la siquiente figura se ve como al precionar un boton del keypad el display 7 
 
 ![Alt text](/Prest_keypad.jpeg?raw=true "Prest keypad") 
 
+"Figura 4. Montaje presioando tecla del keypad"
 
 Al introducir los 4 numeros que coresponden al pin inmediatamente el display mostrara una A y el LED verde de la targeta nucleo se pondra en ON indicando que se abrio la cerradura. 
 
 
 ![Alt text](/Unloock.jpeg?raw=true "Unloock") 
 
+"Figura 5. Montaje pin correcto(cerradura abierta)"
 
 Cuando los 4 numeros ingresados son diferentes al pin el display mostrara una F y la cerradura permanecera cerrada.
 
 
 ![Alt text](/loock.jpeg?raw=true "loock")
 
+"Figura 6. Montaje pin incorrecto(cerradura cerrada)"
 
 Si la cerradura esta abierta y se introduce una combinación de 4 dígitos estos pasaran a ser el nuevo pin, el display mostrara una E y el LED pasara a OF indicando que la cerradura se a cerrado.
 
 
 ![Alt text](/Save_new_password.jpeg?raw=true "Save new password") 
+
+"Figura 6. Montaje guardando nuevo pin"
