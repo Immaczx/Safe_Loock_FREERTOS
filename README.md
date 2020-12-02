@@ -26,7 +26,7 @@ Al introducir los 4 numeros que coresponden al pin inmediatamente el display mos
 Cuando los 4 numeros ingresados son diferentes al pin el display mostrara una F y la cerradura permanecera cerrada.
 
 
-![Alt text](/loock.jpeg.png?raw=true "loock")
+![Alt text](/loock.jpeg?raw=true "loock")
 
 
 Si la cerradura esta abierta y se introduce una combinacion de 4 numeros estos pasaran a ser el nuevo pin, el display muestrara una E y el LED pasara a OF indicando que la cerradura de a cerrado.
