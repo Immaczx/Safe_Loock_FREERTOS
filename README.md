@@ -6,6 +6,6 @@ La cerradura tiene una contraseña por defecto la cual debe ingresarse por medio
 
 ![Alt text](/Safe_Look_Diagram.png?raw=true "Safe_Look_Diagram") 
 
-![Alt text](/Debouncing Keypad.png?raw=true "Debouncing Keypad") 
+![Alt text](/Debouncing_Keypad.png?raw=true "Debouncing Keypad") 
 
 ![Alt text](/Keep_password.png?raw=true "Keep_password") 
